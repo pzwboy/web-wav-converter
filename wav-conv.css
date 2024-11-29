@@ -22,6 +22,7 @@ input[type=button] {
     margin-top: 10px;
 }
 
+
 .page-wrapper {
     display: flex;
     flex-direction: column;
@@ -161,5 +162,5 @@ input[type=button] {
     font-weight: bold;
     color: rgb(250,250,250);
     font-size: 25px;
-    content: "Processing your files. Please wait...";
+    content: "正在处理音频文件，请稍后……";
 }
